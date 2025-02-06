@@ -37,9 +37,6 @@
    cd analog_detection
 2. pip install -r requirements.txt
 
-## Использование
-
-
 ## Стек технологий 
 - Python
 - OpenCV
